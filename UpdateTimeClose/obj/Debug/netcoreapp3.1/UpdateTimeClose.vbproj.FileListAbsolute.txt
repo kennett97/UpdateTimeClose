@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.frmUpdateTimeClose.resources
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.AssemblyInfo.vb
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.exe
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.deps.json
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.runtimeconfig.json
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.runtimeconfig.dev.json
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.dll
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\bin\Debug\netcoreapp3.1\UpdateTimeClose.pdb
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.dll
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.pdb
+C:\Users\user\source\repos\UpdateTimeClose\UpdateTimeClose\obj\Debug\netcoreapp3.1\UpdateTimeClose.genruntimeconfig.cache
